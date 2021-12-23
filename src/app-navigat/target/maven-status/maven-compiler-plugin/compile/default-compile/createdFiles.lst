@@ -1,0 +1,10 @@
+entitle\throttle\login\LandingPage.class
+entitle\throttle\login\LoginPage.class
+entitle\throttle\AbstractPage.class
+entitle\throttle\Make.class
+entitle\throttle\Browser$1.class
+entitle\throttle\Browser$Navigator.class
+entitle\throttle\login\LoginPageConstant.class
+entitle\throttle\Application.class
+entitle\throttle\Browser.class
+entitle\throttle\login\VehiclePage.class

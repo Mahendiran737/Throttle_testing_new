@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [app-tests by packages]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="entitle.throttle(failed)">
+    <classes>
+      <class name="entitle.throttle.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- entitle.throttle.LoginTest -->
+    </classes>
+  </test> <!-- entitle.throttle(failed) -->
+</suite> <!-- Failed suite [app-tests by packages] -->
